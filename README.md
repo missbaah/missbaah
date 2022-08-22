@@ -1,7 +1,7 @@
 # Hello, welcome to my Github 👋🏾
 
 
-I'm a Software Engineer, Writer and Master of Architecture post grad student at Kwame Nkrumah University of Science and Technology. I'm love to write about my experiences and create things using code, writing or handicraft skills.
+I'm a Software Engineer, Writer and Master of Architecture post grad student at Kwame Nkrumah University of Science and Technology. I love to write about my experiences and create things using code, writing or handicraft skills.
 
 **Here's a quick summary about me**:
 
