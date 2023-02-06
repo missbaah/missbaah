@@ -7,7 +7,7 @@ I'm a Software Engineer, Writer and Master of Architecture post grad student at 
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and, Reactjs
+- 🌱 I’m currently learning JavaScript, Reactjs, and Vue,js
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Front-end Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing baahbrako@gmail.com.
