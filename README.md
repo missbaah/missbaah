@@ -7,7 +7,7 @@ I'm a Software Engineer, I love to write about my experiences and create things 
 
 - 😊 Pronouns: She/her
 - 🌱 I’m currently playing with python
-- 💼 Job interests: Software Engineer or Front-end Engineer
+- 💼 Job interests: Software Engineer 
 - 📫 You can contact me by emailing baahbrako@gmail.com.
 
 ---
